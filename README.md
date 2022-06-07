@@ -10,7 +10,8 @@
  
  <h2>
   
-![icons8-react-100](https://user-images.githubusercontent.com/70545509/172426421-4e596049-8f14-4db2-9763-d55d528c6c9e.png)
+
+![icons8-react-40](https://user-images.githubusercontent.com/70545509/172428080-1c3e18f5-a6d3-4b8a-a227-302b6f3a125f.png)
 ![icons8-redux-48](https://user-images.githubusercontent.com/70545509/172419296-26bb7da6-c6fe-4845-9ab3-6e7ec2ca794a.png)
 ![icons8-nodejs-48](https://user-images.githubusercontent.com/70545509/172419298-d445dce5-62aa-4e95-b8bc-a71a877215f7.png)
 ![icons8-javascript-48](https://user-images.githubusercontent.com/70545509/172419300-0580d9af-353f-43fe-af47-ed158da4de7e.png)
@@ -32,9 +33,9 @@
 <h2>Soy un desarrollador web fullstack graduado con mas de 700 horas de codigo real en el bootcamp de Henry con conocimientos en React | Redux | HTML | CSS | Javascript | Node | Github | Express | MongoDB | SCSS | MySql | <h2>
 
 
- <h3>poseo una gran capacidad autodidacta a la par de grandes habilidades de trabajo en equipo, coordinacion, comunicacion y de interpretacion que he heredado gracias a varios años de experiencia en ventas y atencion al cliente. 
+ <h4>poseo una gran capacidad autodidacta a la par de grandes habilidades de trabajo en equipo, coordinacion, comunicacion y de interpretacion que he heredado gracias a varios años de experiencia en ventas y atencion al cliente. 
 
-siempre busco lograr la mejor solucion posible, con predisposición resiliente a buscar, aprender y aplicar nuevas tecnologías, herramientas, y colaborar en equipo. <h3>
+siempre busco lograr la mejor solucion posible, con predisposición resiliente a buscar, aprender y aplicar nuevas tecnologías, herramientas, y colaborar en equipo. <h4>
 
 
 
