@@ -1,9 +1,11 @@
 
-![compiling gif](https://user-images.githubusercontent.com/70545509/172416114-09c68020-71af-41e9-962c-eaa8351614ad.gif)
+
+![1 jB76MLZjiNhGSQQvxm7LSQ](https://user-images.githubusercontent.com/70545509/172424949-f06a8e5b-63f5-4d5c-ba6c-92096e40057a.gif)
 
 
 
-![icons8-react-16](https://user-images.githubusercontent.com/70545509/172419292-ac9f3d8d-21dd-4a62-8294-bb0e1548acaf.png)
+
+![icons8-react-16](https://user-images.githubusercontent.com/70545509/172425584-a309b470-d043-40fb-a161-ad1586e42529.png)
 ![icons8-redux-48](https://user-images.githubusercontent.com/70545509/172419296-26bb7da6-c6fe-4845-9ab3-6e7ec2ca794a.png)
 ![icons8-nodejs-48](https://user-images.githubusercontent.com/70545509/172419298-d445dce5-62aa-4e95-b8bc-a71a877215f7.png)
 ![icons8-javascript-48](https://user-images.githubusercontent.com/70545509/172419300-0580d9af-353f-43fe-af47-ed158da4de7e.png)
@@ -15,8 +17,9 @@
 
 
 
-<h1>Hola! 👋 mi nombre es Gabriel Moyano 
-Soy un desarrollador web fullstack graduado con mas de 700 horas de codigo real en el bootcamp de Henry con conocimientos en React | Redux | HTML | CSS | Javascript | Node | Github | Express | MongoDB | SCSS | MySql | <h1>
+<h1>Hola! 👋 mi nombre es Gabriel Moyano :smile: <h1>
+ 
+<h2>Soy un desarrollador web fullstack graduado con mas de 700 horas de codigo real en el bootcamp de Henry con conocimientos en React | Redux | HTML | CSS | Javascript | Node | Github | Express | MongoDB | SCSS | MySql | <h2>
 
 
  <h3>poseo una gran capacidad autodidacta a la par de grandes habilidades de trabajo en equipo, coordinacion, comunicacion y de interpretacion que he heredado gracias a varios años de experiencia en ventas y atencion al cliente. 
@@ -28,13 +31,13 @@ siempre busco lograr la mejor solucion posible, con predisposición resiliente a
 💬Contactame!
 
 
-![icons8-linkedin-circled-16](https://user-images.githubusercontent.com/70545509/172416769-455d6e2e-708d-4530-9089-2c16fe36ddbd.png)Linkedin: https://www.linkedin.com/in/gabriel-moyano/
+  ![icons8-linkedin-circled-16](https://user-images.githubusercontent.com/70545509/172416769-455d6e2e-708d-4530-9089-2c16fe36ddbd.png) Linkedin: https://www.linkedin.com/in/gabriel-moyano/   
 
 
 
 
 
- 📫 mail: gabitandil4@outlook.com
+ <h2>📫 mail: gabitandil4@outlook.com  <h2>
 
 
 <!--
