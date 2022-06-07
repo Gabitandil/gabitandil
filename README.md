@@ -6,7 +6,11 @@
 
 
 
-![icons8-react](https://user-images.githubusercontent.com/70545509/172425769-1adcfc00-5b0f-4de4-a0ad-d7ddf4c4f3ac.gif)
+<div>
+ 
+ <h2>
+  
+![icons8-react-100](https://user-images.githubusercontent.com/70545509/172426421-4e596049-8f14-4db2-9763-d55d528c6c9e.png)
 ![icons8-redux-48](https://user-images.githubusercontent.com/70545509/172419296-26bb7da6-c6fe-4845-9ab3-6e7ec2ca794a.png)
 ![icons8-nodejs-48](https://user-images.githubusercontent.com/70545509/172419298-d445dce5-62aa-4e95-b8bc-a71a877215f7.png)
 ![icons8-javascript-48](https://user-images.githubusercontent.com/70545509/172419300-0580d9af-353f-43fe-af47-ed158da4de7e.png)
@@ -15,6 +19,10 @@
 ![icons8-sass-48](https://user-images.githubusercontent.com/70545509/172419306-0c877ecb-771b-43e5-936e-ff7f56d0b145.png)
 ![icons8-mongodb-48](https://user-images.githubusercontent.com/70545509/172419311-e1ae8f3b-35b2-452e-9e16-b9ab0be891a4.png)
 ![icons8-github-30](https://user-images.githubusercontent.com/70545509/172419314-b55f9dd9-2b35-4b48-90b0-0ab18e067fe0.png)
+  
+   <h2>
+    
+ <div>
 
 
 
