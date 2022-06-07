@@ -1,6 +1,11 @@
 ### Hi there 👋
+wasu
 
-HOLAAAAAAAAAAAAAAAAAAAA ![verbos de accion](https://user-images.githubusercontent.com/70545509/172402603-2b279712-4840-45d9-8350-fb6c9b4889a1.png)
+alsdklsamndsal
+dsmaklmdsalmdas
+dsakldmaslmdsa
+
+
 <!--
 **Gabitandil/gabitandil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
