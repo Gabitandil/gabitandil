@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+HOLAAAAAAAAAAAAAAAAAAAA ![verbos de accion](https://user-images.githubusercontent.com/70545509/172402603-2b279712-4840-45d9-8350-fb6c9b4889a1.png)
 <!--
 **Gabitandil/gabitandil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-HOLAAAAAAAAAAAAAAAAAAAA ![verbos de accion](https://user-images.githubusercontent.com/70545509/172402603-2b279712-4840-45d9-8350-fb6c9b4889a1.png)
 
 -->
