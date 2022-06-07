@@ -18,7 +18,8 @@
 ![icons8-css-50](https://user-images.githubusercontent.com/70545509/172419302-dce227cd-f116-4929-84d3-869174fb5399.png)
 ![icons8-sass-48](https://user-images.githubusercontent.com/70545509/172419306-0c877ecb-771b-43e5-936e-ff7f56d0b145.png)
 ![icons8-mongodb-48](https://user-images.githubusercontent.com/70545509/172419311-e1ae8f3b-35b2-452e-9e16-b9ab0be891a4.png)
-![icons8-github-30](https://user-images.githubusercontent.com/70545509/172419314-b55f9dd9-2b35-4b48-90b0-0ab18e067fe0.png)
+![icons8-github-50](https://user-images.githubusercontent.com/70545509/172427648-b6473cac-e6eb-4775-bd1b-08f602250091.png)
+
   
    <h2>
     
