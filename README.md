@@ -31,7 +31,7 @@
 
 <h1>Hola! 👋 mi nombre es Gabriel Moyano :smile: <h1>
  
-   <h2>Sobre mí</h2>
+ <h3>
  
 - 👷 Actualmente estoy buscando mi primer empleo como FullStack Web Developer
 - 🇦🇷  Tengo 23 años, soy de Tandil, Argentina 
