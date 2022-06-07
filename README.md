@@ -26,6 +26,8 @@ siempre busco lograr la mejor solucion posible, con predisposición resiliente a
 
 
 💬Contactame!
+
+
 ![icons8-linkedin-circled-16](https://user-images.githubusercontent.com/70545509/172416769-455d6e2e-708d-4530-9089-2c16fe36ddbd.png)Linkedin: https://www.linkedin.com/in/gabriel-moyano/
 
 
