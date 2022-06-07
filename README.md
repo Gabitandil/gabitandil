@@ -44,7 +44,7 @@ siempre busco lograr la mejor solucion posible, con predisposición resiliente a
   
 ![icons8-folder-50](https://user-images.githubusercontent.com/70545509/172428765-77c55125-9683-43c0-bf4b-b899ebefb4ff.png)  https://github.com/Gabitandil/Dogs
   
-  ![icons8-folder-50](https://user-images.githubusercontent.com/70545509/172428765-77c55125-9683-43c0-bf4b-b899ebefb4ff.png)  [https://github.com/Gabitandil/Dogs](https://github.com/Gabitandil/NFT-Market)
+  ![icons8-folder-50](https://user-images.githubusercontent.com/70545509/172428765-77c55125-9683-43c0-bf4b-b899ebefb4ff.png)  https://github.com/Gabitandil/NFT-Market
   
   
   
