@@ -32,7 +32,7 @@
 
 <h1>Hola! 👋 mi nombre es Gabriel Moyano :smile: <h1>
  
-<h2>Soy un desarrollador web fullstack graduado con mas de 700 horas de codigo real en el bootcamp de Henry con conocimientos en React | Redux | HTML | CSS | Javascript | Node | Github | Express | MongoDB | SCSS | MySql | <h2>
+<h3>Soy un desarrollador web fullstack graduado con mas de 700 horas de codigo real en el bootcamp de Henry con conocimientos en React | Redux | HTML | CSS | Javascript | Node | Github | Express | MongoDB | SCSS | MySql | </h3>
 
 
  <h4>poseo una gran capacidad autodidacta a la par de grandes habilidades de trabajo en equipo, coordinacion, comunicacion y de interpretacion que he heredado gracias a varios años de experiencia en ventas y atencion al cliente. 
