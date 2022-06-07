@@ -8,9 +8,9 @@
 
 
 
-<div>
+
  
- <h2>
+
   
 
 ![icons8-react-40](https://user-images.githubusercontent.com/70545509/172428080-1c3e18f5-a6d3-4b8a-a227-302b6f3a125f.png)
@@ -24,10 +24,9 @@
 ![icons8-github-50](https://user-images.githubusercontent.com/70545509/172427648-b6473cac-e6eb-4775-bd1b-08f602250091.png)
 
   
-   <h2>
+ 
     
- <div>
-
+ 
 
 
 <h1>Hola! 👋 mi nombre es Gabriel Moyano :smile: <h1>
@@ -39,9 +38,9 @@
  
 Soy un desarrollador web fullstack graduado con mas de 700 horas de codigo real en el bootcamp de Henry con conocimientos en React | Redux | HTML | CSS | Javascript | Node | Github | Express | MongoDB | SCSS | MySql | 
  
- <h4>poseo una gran capacidad autodidacta a la par de grandes habilidades de trabajo en equipo, coordinacion, comunicacion y de interpretacion que he heredado gracias a varios años de experiencia en ventas y atencion al cliente. 
+ poseo una gran capacidad autodidacta a la par de grandes habilidades de trabajo en equipo, coordinacion, comunicacion y de interpretacion que he heredado gracias a varios años de experiencia en ventas y atencion al cliente. 
 
-siempre busco lograr la mejor solucion posible, con predisposición resiliente a buscar, aprender y aplicar nuevas tecnologías, herramientas, y colaborar en equipo. <h4>
+siempre busco lograr la mejor solucion posible, con predisposición resiliente a buscar, aprender y aplicar nuevas tecnologías, herramientas, y colaborar en equipo. 
 
 
   <h1> Proyectos </h1>
@@ -55,7 +54,7 @@ siempre busco lograr la mejor solucion posible, con predisposición resiliente a
   
   
   
-💬Contactame!
+  <h1> 💬 Contactame! </h1>
 
 
   ![icons8-linkedin-circled-16](https://user-images.githubusercontent.com/70545509/172416769-455d6e2e-708d-4530-9089-2c16fe36ddbd.png) Linkedin: https://www.linkedin.com/in/gabriel-moyano/   
@@ -64,7 +63,7 @@ siempre busco lograr la mejor solucion posible, con predisposición resiliente a
 
 
 
- <h2>📫 mail: gabitandil4@outlook.com  <h2>
+ 📫 mail: gabitandil4@outlook.com  
 
   
 
