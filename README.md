@@ -14,8 +14,8 @@
 ![icons8-github-30](https://user-images.githubusercontent.com/70545509/172419314-b55f9dd9-2b35-4b48-90b0-0ab18e067fe0.png)
 
 
-##
-Hola! 👋 mi nombre es Gabriel Moyano 
+
+##Hola! 👋 mi nombre es Gabriel Moyano 
 Soy un desarrollador web fullstack graduado con mas de 700 horas de codigo real en el bootcamp de Henry con conocimientos en React | Redux | HTML | CSS | Javascript | Node | Github | Express | MongoDB | SCSS | MySql | 
 
 
