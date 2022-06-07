@@ -5,7 +5,8 @@
 
 
 
-![icons8-react-16](https://user-images.githubusercontent.com/70545509/172425584-a309b470-d043-40fb-a161-ad1586e42529.png)
+
+![icons8-react](https://user-images.githubusercontent.com/70545509/172425769-1adcfc00-5b0f-4de4-a0ad-d7ddf4c4f3ac.gif)
 ![icons8-redux-48](https://user-images.githubusercontent.com/70545509/172419296-26bb7da6-c6fe-4845-9ab3-6e7ec2ca794a.png)
 ![icons8-nodejs-48](https://user-images.githubusercontent.com/70545509/172419298-d445dce5-62aa-4e95-b8bc-a71a877215f7.png)
 ![icons8-javascript-48](https://user-images.githubusercontent.com/70545509/172419300-0580d9af-353f-43fe-af47-ed158da4de7e.png)
