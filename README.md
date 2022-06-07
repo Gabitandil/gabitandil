@@ -6,6 +6,7 @@
 
 
 
+
 <div>
  
  <h2>
@@ -38,7 +39,17 @@
 siempre busco lograr la mejor solucion posible, con predisposición resiliente a buscar, aprender y aplicar nuevas tecnologías, herramientas, y colaborar en equipo. <h4>
 
 
-
+  <h1> Proyectos </h1>
+ 
+  
+![icons8-folder-50](https://user-images.githubusercontent.com/70545509/172428765-77c55125-9683-43c0-bf4b-b899ebefb4ff.png)  https://github.com/Gabitandil/Dogs
+  
+  ![icons8-folder-50](https://user-images.githubusercontent.com/70545509/172428765-77c55125-9683-43c0-bf4b-b899ebefb4ff.png)  [https://github.com/Gabitandil/Dogs](https://github.com/Gabitandil/NFT-Market)
+  
+  
+  
+  
+  
 💬Contactame!
 
 
@@ -50,6 +61,7 @@ siempre busco lograr la mejor solucion posible, con predisposición resiliente a
 
  <h2>📫 mail: gabitandil4@outlook.com  <h2>
 
+  
 
 <!--
 **Gabitandil/gabitandil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
