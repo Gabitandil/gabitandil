@@ -33,7 +33,7 @@
  
  <h3>
  
-- 👷 Actualmente estoy buscando mi primer empleo como FullStack Web Developer
+- 👷 Actualmente estoy buscando mi primer empleo como  Web Developer
 - 🇦🇷  Tengo 23 años, soy de Tandil, Argentina 
   </h3>
  
