@@ -1,8 +1,6 @@
 
 
 
-![YL97](https://user-images.githubusercontent.com/70545509/172429865-2668c2e5-c331-487b-8b17-2b2922d7645c.gif)
-
 
 
 
@@ -56,9 +54,9 @@ i have acumulated around 800  coding hours doing multiple bootcamps and certific
 
 
 
-<h4 align="left">My linkedin:</h4>
+<h4 align="left">Linkedin: </h4>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-moyano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-moyano/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-moyano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-moyano/" height="30" width="40" /></a> 
 </p>
 
   <h4 align="left">My certificates:</h4>
@@ -93,10 +91,15 @@ i have acumulated around 800  coding hours doing multiple bootcamps and certific
     
  </div>
  
+ <h2 align= "center"> Download resume </h2>
+ <p align= "center"> 
+<a  href="https://drive.google.com/uc?export=download&id=1mYuMdwfBI5rMAYzVigeMcDo0N6qCtw79" target="blank"><img align="center" src="https://user-images.githubusercontent.com/70545509/199553293-bb88c6ce-680e-495f-8a70-7509e9470d40.png" alt="gabriel moyano resume" height="60" width="55" /></a> 
  
+ </p>
 
 
 
+<h3 align= "center" > Have a great Day! 👋 </h3>
 
 
 
