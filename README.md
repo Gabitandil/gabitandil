@@ -13,15 +13,7 @@
 
   
 
-![icons8-react-40](https://user-images.githubusercontent.com/70545509/172428080-1c3e18f5-a6d3-4b8a-a227-302b6f3a125f.png)
-![icons8-redux-48](https://user-images.githubusercontent.com/70545509/172419296-26bb7da6-c6fe-4845-9ab3-6e7ec2ca794a.png)
-![icons8-nodejs-48](https://user-images.githubusercontent.com/70545509/172419298-d445dce5-62aa-4e95-b8bc-a71a877215f7.png)
-![icons8-javascript-48](https://user-images.githubusercontent.com/70545509/172419300-0580d9af-353f-43fe-af47-ed158da4de7e.png)
-![icons8-html-50](https://user-images.githubusercontent.com/70545509/172419301-e65b4268-7ea5-4b48-a46d-9a33191b28ec.png)
-![icons8-css-50](https://user-images.githubusercontent.com/70545509/172419302-dce227cd-f116-4929-84d3-869174fb5399.png)
-![icons8-sass-48](https://user-images.githubusercontent.com/70545509/172419306-0c877ecb-771b-43e5-936e-ff7f56d0b145.png)
-![icons8-mongodb-48](https://user-images.githubusercontent.com/70545509/172419311-e1ae8f3b-35b2-452e-9e16-b9ab0be891a4.png)
-![icons8-github-50](https://user-images.githubusercontent.com/70545509/172427648-b6473cac-e6eb-4775-bd1b-08f602250091.png)
+
 
   
  
@@ -29,63 +21,84 @@
  
 
 
-<h1>Hola! 👋 mi nombre es Gabriel Moyano :smile: <h1>
- 
- <h3>
- 
-- 👷 Actualmente estoy buscando mi primer empleo como  Web Developer
-- 🇦🇷  Tengo 23 años, soy de Tandil, Argentina 
-  </h3>
- 
-Soy un desarrollador web fullstack graduado con mas de 700 horas de codigo real en el bootcamp de Henry con conocimientos en React | Redux | HTML | CSS | Javascript | Node | Github | Express | MongoDB | SCSS | MySql | 
- 
- poseo una gran proactividad  a la par de grandes habilidades de trabajo en equipo, coordinacion, comunicacion y de interpretacion que he heredado gracias a varios años de experiencia en grupos de venta directa y atencion al cliente. 
+<h1 align="center">Hi 👋, I'm Gabriel Moyano</h1>
+<h3 align="center">I'm A passionate full stack web developer from argentina 🇦🇷</h3>
 
-siempre busco lograr la mejor solucion posible, con predisposición resiliente a buscar, aprender y aplicar nuevas tecnologías, herramientas, y colaborar en equipo. 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabitandil&theme=tokyonight&layout=compact)
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+
+
+
+Im a proactive person, looking for challenges to gain experience and knowledge in this IT world im passionate about.
+i have acumulated around 800  coding hours doing multiple bootcamps and certifications, right now im polishing my skills and searching for my first IT job, im a great teamworker and im always trying to improve myself whether on technologies or in other fields 
  
+
+
+ ⚡ Fun fact: i love food 
+ 
+ ⚡ Second fun fact: i love food x2
+ 
+ 📫 How to reach me **gabitandil4@outlook.com** 
+
+
+
+<h4 align="left">My linkedin:</h4>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-moyano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-moyano/" height="30" width="40" /></a>
+</p>
+
+  <h4 align="left">My certificates:</h4>
+ 
+ <p float="left"> 
+  
+  <a href="https://certificates.soyhenry.com/cert?id=26791838-d55e-47fb-8fb3-56a92a7b2b14" target="blank"><img align="center" src="https://user-images.githubusercontent.com/70545509/199549363-fad354ce-982d-4acf-97d6-a5426667ac84.png" alt="https://www.linkedin.com/in/gabriel-moyano/" height="50" width="60" /></a> <a href="https://assets.alkemy.org/certificates/auth0%7C62bf3354022b1234ff875a4b/ACCELERATION_CERTIFICATE/1d018a34-80ff-404c-83b5-8557c97bde8e.pdf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/70545509/199550195-f425523a-b55c-453b-91cc-a5a09df54918.png" height="50" width="60" /></a> 
+  
+  
+</p>
+ 
+
+ 
+ 
+ <h2  > Stadistics </h2> 
+ 
+ <div > 
+ 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabitandil&theme=tokyonight&layout=compact)
+ 
+ </div>
  
  <div> 
   
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabitandil&theme=radical)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabitandil&theme=codeSTACKr)
  
  </div>
  
  <div> 
  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=gabitandil&theme=radical)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=gabitandil&theme=gruvbox)](https://git.io/streak-stats)
     
  </div>
  
  
-  <div> 
- 
-
-  
- </div>
- 
-  <h1> Proyectos </h1>
- 
-  
-Cuento con varios proyectos desarrollados tanto de manera individual como grupal, utilizando modalidad SCRUM, con daily meetings, demos sprints y presentaciones
-  
-  
- 
-  
-  
-  <h1> 💬 Contactame! </h1>
-
-
-  ![icons8-linkedin-circled-16](https://user-images.githubusercontent.com/70545509/172416769-455d6e2e-708d-4530-9089-2c16fe36ddbd.png) Linkedin: https://www.linkedin.com/in/gabriel-moyano/   
 
 
 
 
 
- 📫 mail: gabitandil4@outlook.com  
-
-  
 
 <!--
 **Gabitandil/gabitandil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
