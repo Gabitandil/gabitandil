@@ -44,12 +44,15 @@ Soy un desarrollador web fullstack graduado con mas de 700 horas de codigo real 
 siempre busco lograr la mejor solucion posible, con predisposición resiliente a buscar, aprender y aplicar nuevas tecnologías, herramientas, y colaborar en equipo. 
 
 
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabitandil&theme=radical)
+ 
   <h1> Proyectos </h1>
  
   
 Cuento con varios proyectos desarrollados tanto de manera individual como grupal, utilizando modalidad SCRUM, con daily meetings, demos sprints y presentaciones
   
   
+ 
   
   
   <h1> 💬 Contactame! </h1>
