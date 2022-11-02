@@ -31,7 +31,7 @@
 
 
  
-Im a proactive person, looking for challenges to gain experience and knowledge in this IT world im passionate about. i have acumulated around 800  coding hours doing multiple bootcamps and certifications, right now im polishing and improving skills and searching  my first IT job, im a great teamworker and im always trying to improve myself whether in the technology field or in other fields  
+Im a proactive person, looking for challenges to gain experience and knowledge in this IT world im passionate about. i have acumulated around 700 coding hours doing multiple bootcamps and certifications, right now im polishing and improving skills and searching  my first IT job, im a great teamworker and im always trying to improve myself whether in the technology field or in other fields  
  
  
 
