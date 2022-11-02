@@ -6,7 +6,6 @@
 
 
 
-
  
 
   
@@ -46,7 +45,7 @@ Im a proactive person, looking for challenges to gain experience and knowledge i
  
 
 
- 
+ <img align= "right" src= "https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="coding gif" />
 
  - 🌱 Im currently learning web development and improving skills
  
