@@ -52,7 +52,7 @@ Im a proactive person, looking for challenges to gain experience and knowledge i
  - 📫 How to reach me **gabitandil4@outlook.com** 
  - ⚡ Fun fact: i love food 
  
- - ⚡ Second fun fact: i love food 👀
+ - ⚡ Second fun fact: i love 🧉 👀 
 
 
 
