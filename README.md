@@ -64,21 +64,21 @@ Im a proactive person, looking for challenges to gain experience and knowledge i
 
  
  
- <h2  > Stadistics </h2> 
+ <h2 align="center" > Stadistics </h2> 
  
- <div > 
+ <div align="center" > 
  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabitandil&theme=tokyonight&layout=compact)
  
  </div>
  
- <div> 
+ <div align="center"> 
   
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabitandil&theme=codeSTACKr)
  
  </div>
  
- <div> 
+ <div align="center"> 
  
   [![GitHub Streak](https://streak-stats.demolab.com/?user=gabitandil&theme=gruvbox)](https://git.io/streak-stats)
     
