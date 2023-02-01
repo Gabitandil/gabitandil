@@ -66,11 +66,7 @@ Im a proactive person, looking for challenges to gain experience and knowledge i
  
  <h2 align="center" > Stadistics </h2> 
  
- <div align="center" > 
- 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabitandil&theme=tokyonight&layout=compact)
- 
- </div>
+
  
  <div align="center"> 
   
