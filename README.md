@@ -85,7 +85,7 @@ I'm looking for an opportunity to start my career as a web developer, and I'm wi
  
  <h2 align= "center"> Download resume </h2>
  <p align= "center"> 
-<a  href="https://drive.google.com/uc?export=download&id=1mYuMdwfBI5rMAYzVigeMcDo0N6qCtw79" target="blank"><img align="center" src="https://user-images.githubusercontent.com/70545509/199553293-bb88c6ce-680e-495f-8a70-7509e9470d40.png" alt="gabriel moyano resume" height="60" width="55" /></a> 
+<a  href="https://drive.google.com/file/d/1T9PppoILTNMrYKmErlXHXLLjyhIHa7f6/view" target="blank"><img align="center" src="https://user-images.githubusercontent.com/70545509/199553293-bb88c6ce-680e-495f-8a70-7509e9470d40.png" alt="gabriel moyano resume" height="60" width="55" /></a> 
  
  </p>
 
